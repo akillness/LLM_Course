@@ -12,6 +12,22 @@
 + Simple LLM Finetuner is a beginner-friendly interface designed to facilitate fine-tuning various language models using [LoRA](https://arxiv.org/abs/2106.09685) method via the [PEFT](https://github.com/huggingface/peft) library on commodity NVIDIA GPUs.  
   + <https://akillness.github.io/posts/llm-agents>
 
+
+<details markdown="1">
+<summary> State-of-the-art Parameter-Efficient Fine-Tuning (PEFT) methods </summary>
+
+대규모 사전 학습 모델의 미세 조정은 그 규모 때문에 종종 비용이 많이 듭니다. 파라미터 효율적 미세 조정(PEFT) 방법은 모델의 모든 파라미터 대신 소수의(추가) 모델 파라미터만 미세 조정함으로써 대규모 사전 학습 모델을 다양한 다운스트림 응용 프로그램에 효율적으로 적응시킬 수 있습니다. 이는 컴퓨팅 및 저장 비용을 크게 감소시킵니다. 최근 최첨단 PEFT 기술은 완전히 미세 조정된 모델과 비슷한 성능을 달성합니다.
+
+PEFT는 모델 훈련과 추론을 쉽게 하기 위해 Transformers와 통합되었으며, Diffusers를 통해 다양한 어댑터를 편리하게 관리할 수 있습니다. 또한, Accelerate를 통해 매우 큰 모델의 분산 훈련과 추론이 가능합니다.
+
+팁
+
+PEFT 라이브러리에 구현된 PEFT 방법에 대해 읽고, 이러한 방법을 다양한 다운스트림 작업에 적용하는 방법을 보여주는 노트북을 확인하려면 PEFT 조직 페이지를 방문하세요. 조직 페이지에서 "Watch repos" 버튼을 클릭하여 새로 구현된 방법과 노트북에 대한 알림을 받을 수 있습니다!
+
+지원되는 PEFT 방법 목록은 PEFT 어댑터 API 참조 섹션을 확인하고, 이러한 방법이 어떻게 작동하는지 배우기 위해 어댑터, 소프트 프롬프트 및 IA3 개념 가이드를 읽어보세요.
+
+</details>
+
 ## Install Dependency
 ~~~sh
 $ pip install -r requirements.txt
