@@ -19,10 +19,10 @@ $ pip install -r requirements.txt
 
 ## Run it locally
 ~~~sh
-virtualenv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-streamlit run 6_Chatbot_with_OpenAI.py
+$ virtualenv .venv
+$ source .venv/bin/activate
+$ pip install -r requirements.txt
+$ streamlit run 6_Chatbot_with_OpenAI.py
 ~~~
 
 * * *
