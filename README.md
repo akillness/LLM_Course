@@ -9,7 +9,7 @@
 | [Simple LLM Finetuner](https://github.com/lxe/simple-llm-finetuner?tab=readme-ov-file) | 🦙 | yellow | orange | gradio | app.py | false |
 
 
-+ Simple LLM Finetuner is a beginner-friendly interface designed to facilitate fine-tuning various language models using LoRA method via the PEFT library on commodity NVIDIA GPUs.  
++ Simple LLM Finetuner is a beginner-friendly interface designed to facilitate fine-tuning various language models using [LoRA](https://arxiv.org/abs/2106.09685) method via the [PEFT](https://github.com/huggingface/peft) library on commodity NVIDIA GPUs.  
   + <https://akillness.github.io/posts/llm-agents>
 
 ## Install Dependency
