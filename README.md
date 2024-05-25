@@ -59,3 +59,7 @@ $ streamlit run 6_Chatbot_with_OpenAI.py
      - 2023년 4월, 랭체인은 법인으로 전환하고 세쿼이아캐피털 등 벤처캐피탈의 투자를 받으며 빠르게 성장 중
    - 기타 : Python package 사용가능
 </details>
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=akillness/LLM_example)](https://github.com/#akillness/LLM_example)
