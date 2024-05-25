@@ -42,6 +42,10 @@ $ streamlit run 6_Chatbot_with_OpenAI.py
 
 * * *
 
+
+<details markdown="1">
+<summary> Background Information About Keywords </summary>
+
 ## Keywords (용어설명)
 
 1. [**Anthropic**](https://namu.wiki/w/Anthropic)
@@ -54,3 +58,4 @@ $ streamlit run 6_Chatbot_with_OpenAI.py
      - 대규모 언어 모델(LLM)을 활용하여 애플리케이션과 파이프라인을 신속하게 구축할 수 있는 플랫폼의 필요성을 느껴, 이러한 비전을 가지고 개발자들이 챗봇, 질의응답 시스템, 자동 요약 등 다양한 LLM 애플리케이션을 쉽게 개발할 수 있도록 지원하는 프레임워크.
      - 2023년 4월, 랭체인은 법인으로 전환하고 세쿼이아캐피털 등 벤처캐피탈의 투자를 받으며 빠르게 성장 중
    - 기타 : Python package 사용가능
+</details>
