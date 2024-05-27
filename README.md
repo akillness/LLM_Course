@@ -62,4 +62,4 @@ $ streamlit run 6_Chatbot_with_OpenAI.py
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=akillness/LLM_example)](https://github.com/#akillness/LLM_example)
+[![Star History Chart](https://api.star-history.com/svg?repos=akillness/LLM_Course)](https://github.com/#akillness/LLM_Course)
