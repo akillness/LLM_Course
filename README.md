@@ -1,11 +1,11 @@
 
 
-## Simple LLM to prepare Project
+## Simple LLM Example
 
 
 | Title | emoji | colorFrom | colorTo | sdk | app_file | pinned |
 | :--- | :--- | :---| :--- | :--- | :--- | :--- |
-| [Simple LLM](https://github.com/streamlit/llm-examples) | 🎈 | - | - | streamlit | 6_Chatbot_with_OpenAI.py | false |
+| [Simple LLM](https://github.com/streamlit/llm-examples) | 🎈 | - | - | streamlit | Streamlit+Langchain/6_Chatbot_with_OpenAI.py | false |
 | [Simple LLM Finetuner](https://github.com/lxe/simple-llm-finetuner?tab=readme-ov-file) | 🦙 | yellow | orange | gradio | app.py | false |
 
 
