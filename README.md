@@ -16,6 +16,7 @@ Simple LLM Finetuner is a beginner-friendly interface designed to facilitate fin
   + <https://akillness.github.io/posts/llm-agents>
 
 [![Simple LLM Finetuner](https://img.youtube.com/vi/yM1wanDkNz8/0.jpg)](https://youtu.be/yM1wanDkNz8)
+
 *Youtube Walkthough*
 
 <details markdown="1">
